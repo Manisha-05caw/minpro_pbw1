@@ -45,7 +45,8 @@ Berisi teks copyright di bagian bawah halaman dengan background warna ungu.
 Menggunakan komponen navbar Bootstrap 5 dengan `sticky-top` agar selalu tampil di atas halaman. `navbar-expand-lg` membuat navbar collapse di layar kecil dan menampilkan hamburger menu. 
 Navbar merupakan bagian navigasi utama yang berada di bagian atas halaman website. Pada website ini, navbar dibuat menggunakan komponen bawaan Bootstrap 5 dengan class navbar dan navbar-expand-lg. Class tersebut memungkinkan navbar tampil dalam bentuk horizontal pada layar besar, namun berubah menjadi hamburger menu pada layar kecil (responsive).
 Penggunaan sticky-top membuat navbar tetap berada di bagian atas layar saat pengguna melakukan scroll. Dengan demikian, navigasi tetap mudah diakses kapan saja tanpa harus kembali ke atas halaman.
-Di dalam navbar terdapat container yang berfungsi untuk membatasi lebar konten agar tetap rapi dan tidak terlalu melebar pada layar besar. Menu navigasi seperti Home, About Me, dan Certificates dibuat menggunakan list <ul> dan <li>, lalu diratakan ke kanan menggunakan class ms-auto.
+Di dalam navbar terdapat container yang berfungsi untuk membatasi lebar konten agar tetap rapi dan tidak terlalu melebar pada layar besar. 
+Menu navigasi seperti Home, About Me, dan Certificates dibuat menggunakan list dan, lalu diratakan ke kanan menggunakan class ms-auto.
 Hamburger menu bekerja menggunakan fitur collapse Bootstrap yang membutuhkan file JavaScript Bootstrap agar dapat membuka dan menutup menu secara otomatis di tampilan mobile.
 
 ### Section Home
