@@ -4,6 +4,10 @@
 ---
 
 ## Tampilan Setiap Section / Fitur
+<img width="2827" height="1510" alt="image" src="https://github.com/user-attachments/assets/60a05a26-2b3e-414d-ae23-e924d937f441" />
+<img width="2775" height="1483" alt="image" src="https://github.com/user-attachments/assets/72bdb2a9-8291-4ff5-a462-87f12c80eda2" />
+
+
 
 ### Navbar
 Navigasi di bagian atas halaman berisi link ke Home, About Me, dan Certificates. Responsive dengan hamburger menu di tampilan mobile menggunakan Bootstrap.
